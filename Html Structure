@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Becca Confectionery.css">
+    <title>Becca Confectionery</title>
+</head>
+
+<body>
+    <h1>Becca Confectionery</h1>
+    <h2><i>Taste the Difference</i></h2>
+    <p>Discover a world of sweetness at<a href="https://www.Becca Confectionery.com"> https://www.Becca
+            Confectionery.com</a> We offer a wide range of handcrafted chocolates, candies, pastries,
+        and cakes. Each treat is made with the finest ingredients and crafted with love and care.</p>
+
+    <img src="../Assets/hero2.jpg" width="200px" alt="favourite design">
+    <aside>
+        <h2>Clients Recommendations</h2>
+        <p><h3>Anna Louis</h3><br>Looking for a delightful treat? Becca Confectionery is the perfect place to satisfy your cravings. With
+            a wide array of mouthwatering confections, from handcrafted chocolates to decadent pastries, there's
+            something for everyone .Our commitment to quality ingredients and expert craftsmanship ensures a truly
+            unforgettable taste experience.</p>
+        <br><h3>Smith Wilson</h3>
+        Whether you're celebrating a special occasion or simply treating yourself, Becca Confectionery is the go-to
+        destination for all your sweet desires.
+    </aside>
+
+    <h2>Our Delicious treat</h2>
+    <ul>
+        <li>Red Velvet</li>
+        <li>Vanilla cakes</li>
+        <li>Strawberry flavoured cakes</li>
+        <li>Chocolate cakes</li>
+        <li>Cupcakes</li>
+    </ul>
+    <footer>
+        <div class="footer section">
+            <div class=" Contact-Info">
+                <h2>Contact Us</h2>
+                <p>
+                    <strong>Address:</strong> Lagos State <br>
+                    <strong>Email:</strong> Becca Confectionery<br>
+                    <strong>phone number:</strong> +2349133971312<br>
+                    <strong>website</strong>: <a href="https://www.Becca Confectionery"> https://www.Becca
+                        Confectionery</a>
+                </p>
+
+            </div>
+        </div>
+
+        <div class="Copywrite">
+            &copy;Becca Confectionery. All Right Reserved
+        </div>
+    </footer>
+</body>
+
+</html>
