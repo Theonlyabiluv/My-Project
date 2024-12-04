@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Personal Journey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<header>
+    <h1>My Personal Journey</h1>
+</header>
+
+<body>
+    <p><a href="About Me"> About Me</a> | <a href="Experiences"> Experiences</a> | <a href="Contact"> Contact</a></p>
+    <h2>About Me</h2>
+    <p> Hello! I'm <strong> Opuoru Abigail </strong> and this is my story. <i> I am passionate about </i>learning and
+        growing every day.
+        <br> <u> My unique qualities </u> include creativity and determination.
+    </p>
+    <h2>My Experiences</h2>
+    <p>As a passionate and aspiring software developer, my journey has been fueled by curiosity, problem-solving, and a
+        commitment to learning. Starting as a beginner, I have taken proactive steps to acquire foundational skills in
+        programming, web development, and project design. Over time, I’ve grown more confident in building projects that
+        combine functionality, scalability, and user-centered design.</p>
+    <h3>Educational Journey</h3>
+    <ul>
+        <li>All Nation Group Of School</li>
+        <li>Orodje Secondary School</li>
+        <ul>
+            <li>
+                Commerce
+            </li>
+            <li>
+                Football
+            </li>
+        </ul>
+        <li>Student</li>
+    </ul>
+    <h3>Achievement</h3>
+    <ol>
+        <li><strong>Web Development:</strong> I have gained hands-on experience in designing and developing web
+            applications using HTML</li>
+        <li><strong>Virtual Assiatant:</strong>It has helped me to showcase my dedication to professional growth, my
+            willingness to
+            learn, and my readiness to provide high-quality services to clients. </li>
+        <li><strong>Future Goals:</strong> As I continue to grow, I aim to further specialize in full-stack development,
+            mastering advanced concepts
+            and tools while working on impactful projects. My ultimate goal is to contribute to building innovative
+            solutions that make life easier for people and businesses.</li>
+        <p>"Life is a journey of learning and discovery."
+            <br>-<i>Anonymous</i>
+        </p>
+    </ol>
+    <h2>My Media</h2>
+         <img src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/453199162_1178375140046532_262039545271605599_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG8QJkBduktx1kg935_QKhrgJZl8uGfg1-AlmXy4Z-DXy3YKFjwyb0CWgdHvLjJyIKMkLYIjekDgrOQL5lSyIQY&_nc_ohc=KtRS6fngJ18Q7kNvgE9QAF8&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=A3igeYgbDrBw45ehk4iQi5s&oh=00_AYD2gGReyVpOQhlwqZ_Q_HNUfVRWsZdhcmjGer8yvhM6jA&oe=6756250B" width="200px">
+    <h3> My Audio Introduction</h3>
+
+          <img src="https://www.shutterstock.com/image-vector/whatsapp-audio-recordings-voice-message-260nw-2279570467.jpg" width="200px">
+     <h3>My Life Video</h3>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUE2F1OYNrSCaYEVPZewJPPCtDW1iSKqMRMA&s" width="200px">
+   <h2>Skills Overview</h2>
+   <table>
+        <tr>
+         <th>Skill Category</th> 
+         <th>Skills</th>
+         <th>Profeciency Level</th>
+        </tr>
+        <tr>
+            <td>Technical Skills</td>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>CSS</td>
+            <td>JavaScript</td>
+        </tr>
+        
+            <td>Beginner</td>
+            <td>Learning</td>
+            <td>Upcoming</td>
+        </tr>
+        <tr>
+        <td>More Skills to be added soon!</td>
+        </tr>
+   </table>
+   <section>
+   <Footer>
+    <div class="Contact Me">
+        <h2>Contact Me</h2>
+        <strong>Name:</strong><u>___________________</u><br>
+        <strong>Email:</strong><u>__________________</u><br>
+        <strong>Message:</strong><u>________________</u><br>
+        <strong>Send:</strong>
+    </div>
+    <div class="footer-buttom">
+        <p>& Copy; 2024 My Personal Website.All rights reserved.</p>
+    </div>
+   </Footer>
+   </section>
+
+</body>
+
+</html>
